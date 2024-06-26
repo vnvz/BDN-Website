@@ -4,11 +4,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <a href="https://farmfe.org/" target="_blank">
-      <img src="./assets/logo.png" class="logo" alt="Farm logo" />
+    <a href="" target="_blank">
+      <img src="./assets/fuckassyoutubeemoji.png" class="logo" alt="fuckassyoutubeemoji" />
     </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+    <a href="" target="_blank">
+      <img src="./assets/fuckassyoutubeemoji.png" class="logo" alt="fuckassyoutubeemoji" />
     </a>
   </div>
   <HelloWorld msg="Farm + Vue" />

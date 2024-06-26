@@ -2,6 +2,8 @@
 
 This template should help you start developing using Vue and TypeScript in Farm.
 
+![fuckassyoutubeemoji](./src/assets/fuckassyoutubeemoji.png "fuckassyoutubeemoji")
+
 ## Setup
 
 Install the dependencies:
